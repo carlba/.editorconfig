@@ -41,3 +41,9 @@ indent_size = 4
 [*.sh]
 indent_style = space
 indent_size = 2
+
+# Matches all HTML pages
+# Based on https://google.github.io/styleguide/htmlcssguide.html
+[*.{htm,html}]
+indent_style = space
+indent_size = 2
