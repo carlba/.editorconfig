@@ -44,6 +44,6 @@ indent_size = 2
 
 # Matches all HTML pages
 # Based on https://google.github.io/styleguide/htmlcssguide.html
-[*.{htm,html}]
+[*.{htm,html,ejs}]
 indent_style = space
 indent_size = 2
